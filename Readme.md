@@ -1,5 +1,7 @@
 #Steps to run the Percy without scripting
 
+
+
 1. Install NodeJS, open the folder in command prompt/terminal and run the follwing command "npm install"
 
 2. Create a project on https://percy.io/
